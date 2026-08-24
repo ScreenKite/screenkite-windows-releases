@@ -1,4 +1,4 @@
-# ScreenKite for Windows 🪁
+# ScreenKite for Windows
 
 <p align="center">
   <a href="https://screenkite.com">
@@ -22,7 +22,7 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 **ScreenKite** is a modern, AI-powered screen recording and video editing suite designed to turn raw screen captures into studio-grade demo videos, tutorials, and product presentations effortlessly.
 
@@ -30,18 +30,18 @@ This repository hosts official Windows releases, installers, changelogs, and rel
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- **🎬 Crystal-Clear Screen Capture**: High-frame-rate recording with multi-display support, crisp High-DPI / 4K scaling, system audio, and microphone capture.
-- **🔍 Smart Auto-Zoom & MagicMove**: Automatically focuses on mouse clicks, typed text, and key UI interactions with silky-smooth camera transitions.
-- **⚡ AI Silence & Filler Word Removal**: Effortlessly clean up dead air, pauses, and filler words ("um", "uh", "ah") in seconds.
-- **🎙️ Multilingual AI Voice Dubbing & Subtitles**: Accurate word-level speech-to-text transcription with instant multilingual AI dubbing and caption sync.
-- **🎨 Automated B-Roll & Visual Accents**: Enrich your screen recordings with dynamic overlays, PiP webcam shapes, and animated transitions.
-- **🚀 Native Windows Performance**: Optimized hardware acceleration leveraging modern Windows graphics APIs and GPU encoders (DirectX / NVENC / QuickSync / AMF).
+- **Crystal-Clear Screen Capture**: High-frame-rate recording with multi-display support, crisp High-DPI / 4K scaling, system audio, and microphone capture.
+- **Smart Auto-Zoom & MagicMove**: Automatically focuses on mouse clicks, typed text, and key UI interactions with silky-smooth camera transitions.
+- **AI Silence & Filler Word Removal**: Effortlessly clean up dead air, pauses, and filler words ("um", "uh", "ah") in seconds.
+- **Multilingual AI Voice Dubbing & Subtitles**: Accurate word-level speech-to-text transcription with instant multilingual AI dubbing and caption sync.
+- **Automated B-Roll & Visual Accents**: Enrich your screen recordings with dynamic overlays, PiP webcam shapes, and animated transitions.
+- **Native Windows Performance**: Optimized hardware acceleration leveraging modern Windows graphics APIs and GPU encoders (DirectX / NVENC / QuickSync / AMF).
 
 ---
 
-## 📥 Download & Installation
+## Download & Installation
 
 ### Option 1: Direct Download (Recommended)
 
@@ -61,7 +61,7 @@ winget install ScreenKite.ScreenKite
 
 ---
 
-## 💻 System Requirements
+## System Requirements
 
 | Component | Minimum | Recommended |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ winget install ScreenKite.ScreenKite
 
 ---
 
-## 🔄 Updates
+## Updates
 
 ScreenKite includes automatic update checks. When a new version is released:
 - You will receive an in-app update notification.
@@ -81,18 +81,18 @@ ScreenKite includes automatic update checks. When a new version is released:
 
 ---
 
-## 🛠️ Community & Support
+## Community & Support
 
-- 🌐 **Official Website**: [https://screenkite.com](https://screenkite.com)
-- 🐛 **Issue Tracker**: [GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
-- ✉️ **Email Support**: [hi@screenkite.com](mailto:hi@screenkite.com)
+- **Official Website**: [https://screenkite.com](https://screenkite.com)
+- **Issue Tracker**: [GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
+- **Email Support**: [hi@screenkite.com](mailto:hi@screenkite.com)
 
 ---
 
-## 📄 License
+## License
 
 ScreenKite for Windows is proprietary software. Please refer to the End User License Agreement (EULA) included in the installer for licensing terms.
 
 ---
 
-<p align="center">Made with ❤️ by the <a href="https://screenkite.com">ScreenKite Team</a></p>
+<p align="center">Made by the <a href="https://screenkite.com">ScreenKite Team</a></p>

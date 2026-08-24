@@ -1,4 +1,4 @@
-# ScreenKite Windows 版 🪁
+# ScreenKite Windows 版
 
 <p align="center">
   <a href="https://screenkite.com">
@@ -22,7 +22,7 @@
 
 ---
 
-## 📖 專案介紹
+## 專案介紹
 
 **ScreenKite** 是一款現代化、結合 AI 技術的螢幕錄影與影片剪輯軟體。旨在幫助創作者、開發者、產品團隊以及教育工作者，輕鬆將日常的螢幕錄影轉換為工作室級別的展示影片、教學指南與產品簡報。
 
@@ -30,18 +30,18 @@
 
 ---
 
-## ✨ 核心特色
+## 核心特色
 
-- **🎬 超高清流暢螢幕擷取**：支援多螢幕錄製、高畫格率（High FPS）、高 DPI / 4K 縮放、系統音訊與麥克風同步收音。
-- **🔍 智慧自動縮放與 MagicMove 運鏡**：自動偵測滑鼠點擊、文字輸入及關鍵 UI 操作，平滑過渡焦點，展現專業運鏡效果。
-- **⚡ AI 自動消除靜音與贅字**：秒級自動偵測並剪除錄音中的冗長空白、停頓與贅詞（如「嗯」、「啊」、「那個」）。
-- **🎙️ 多語系 AI 語音配音與字幕生成**：逐字級高精度語音轉文字，支援一鍵生成多語言 AI 擬真配音與字幕同步。
-- **🎨 自動化 B-Roll 與視覺動態元素**：自動為螢幕錄影添加精美的角落子母畫面（PiP）、動態視覺標籤與平滑轉場。
-- **🚀 原生 Windows 硬體加速優化**：深度整合 Windows 圖形 API 與硬體編碼加速（DirectX / NVENC / QuickSync / AMF），高效穩定低延遲。
+- **超高清流暢螢幕擷取**：支援多螢幕錄製、高畫格率（High FPS）、高 DPI / 4K 縮放、系統音訊與麥克風同步收音。
+- **智慧自動縮放與 MagicMove 運鏡**：自動偵測滑鼠點擊、文字輸入及關鍵 UI 操作，平滑過渡焦點，展現專業運鏡效果。
+- **AI 自動消除靜音與贅字**：秒級自動偵測並剪除錄音中的冗長空白、停頓與贅詞（如「嗯」、「啊」、「那個」）。
+- **多語系 AI 語音配音與字幕生成**：逐字級高精度語音轉文字，支援一鍵生成多語言 AI 擬真配音與字幕同步。
+- **自動化 B-Roll 與視覺動態元素**：自動為螢幕錄影添加精美的角落子母畫面（PiP）、動態視覺標籤與平滑轉場。
+- **原生 Windows 硬體加速優化**：深度整合 Windows 圖形 API 與硬體編碼加速（DirectX / NVENC / QuickSync / AMF），高效穩定低延遲。
 
 ---
 
-## 📥 下載與安裝
+## 下載與安裝
 
 ### 方式一：直接下載安裝檔（推薦）
 
@@ -61,7 +61,7 @@ winget install ScreenKite.ScreenKite
 
 ---
 
-## 💻 系統需求
+## 系統需求
 
 | 項目 | 最低需求 | 建議規格 |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ winget install ScreenKite.ScreenKite
 
 ---
 
-## 🔄 軟體更新
+## 軟體更新
 
 ScreenKite 內建自動更新檢查機制。當有新版本發布時：
 - 軟體內將主動跳出更新通知，點擊即可一鍵升級。
@@ -81,18 +81,18 @@ ScreenKite 內建自動更新檢查機制。當有新版本發布時：
 
 ---
 
-## 🛠️ 社群與支援
+## 社群與支援
 
-- 🌐 **官方網站**：[https://screenkite.com](https://screenkite.com)
-- 🐛 **問題回報**：[GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
-- ✉️ **聯絡我們**：[hi@screenkite.com](mailto:hi@screenkite.com)
+- **官方網站**：[https://screenkite.com](https://screenkite.com)
+- **問題回報**：[GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
+- **聯絡我們**：[hi@screenkite.com](mailto:hi@screenkite.com)
 
 ---
 
-## 📄 授權條款
+## 授權條款
 
 ScreenKite for Windows 為專利商業軟體。詳細授權條款請參閱安裝程式中附帶之使用者授權合約 (EULA)。
 
 ---
 
-<p align="center">Made with ❤️ by the <a href="https://screenkite.com">ScreenKite Team</a></p>
+<p align="center">Made by the <a href="https://screenkite.com">ScreenKite Team</a></p>
