@@ -33,5 +33,19 @@
                  length="17183438"
                  type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 0.1.5</title>
+      <sparkle:version>0.1.5</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <pubDate>Tue, 25 Aug 2026 12:54:53 +0000</pubDate>
+      <description><![CDATA[ScreenKite 0.1.5]]></description>
+      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.5/ScreenKite-0.1.5.exe"
+                 sparkle:version="0.1.5"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
+                 sparkle:edSignature="FFQAH4cqQUdlok28hihb57waSvkozu6Oa1vOIR/zHfJru+wbVNLVxzR1LOisYmze14I426x3rARes/p5E3E5AQ=="
+                 length="62368870"
+                 type="application/octet-stream"/>
+    </item>
 </channel>
 </rss>
