@@ -19,5 +19,19 @@
                  length="17178454"
                  type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 0.1.4</title>
+      <sparkle:version>0.1.4</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <pubDate>Tue, 25 Aug 2026 02:07:13 +0000</pubDate>
+      <description><![CDATA[Updater initializes deterministically; Preferences now names the exact failure and reports it to Sentry.]]></description>
+      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.4/ScreenKite-0.1.4.exe"
+                 sparkle:version="0.1.4"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
+                 sparkle:edSignature="IB9vQy5iJuwrqsMjyTVhYF6yp6M6Z85CoL9vTUxzrx3VfSByKcOHX3GASErH4IhRX3OjSqwfnLzOHGUEvTIuCQ=="
+                 length="17183438"
+                 type="application/octet-stream"/>
+    </item>
 </channel>
 </rss>
