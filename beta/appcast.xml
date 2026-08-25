@@ -6,20 +6,6 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-      <title>Version 0.1.2</title>
-      <sparkle:version>0.1.2</sparkle:version>
-      <sparkle:os>windows</sparkle:os>
-      <pubDate>Tue, 25 Aug 2026 01:07:46 +0000</pubDate>
-      <description><![CDATA[First working ScreenKite Windows private beta. 0.1.0 and 0.1.1 were withdrawn: their Release builds could not start.]]></description>
-      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.2/ScreenKite-0.1.2.exe"
-                 sparkle:version="0.1.2"
-                 sparkle:os="windows"
-                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
-                 sparkle:edSignature="SdeoH0GwphbXb4fD6gfwtgZtpjJb/aDn2nCiHHKnAqUVM1+sDYBHSdB+6wj/ZVuGKCnCXWgkZ4GXmKwZVkNfCA=="
-                 length="17178454"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 0.1.4</title>
       <sparkle:version>0.1.4</sparkle:version>
       <sparkle:os>windows</sparkle:os>
