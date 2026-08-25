@@ -6,20 +6,6 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-      <title>Version 0.1.4</title>
-      <sparkle:version>0.1.4</sparkle:version>
-      <sparkle:os>windows</sparkle:os>
-      <pubDate>Tue, 25 Aug 2026 02:07:13 +0000</pubDate>
-      <description><![CDATA[Updater initializes deterministically; Preferences now names the exact failure and reports it to Sentry.]]></description>
-      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.4/ScreenKite-0.1.4.exe"
-                 sparkle:version="0.1.4"
-                 sparkle:os="windows"
-                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
-                 sparkle:edSignature="IB9vQy5iJuwrqsMjyTVhYF6yp6M6Z85CoL9vTUxzrx3VfSByKcOHX3GASErH4IhRX3OjSqwfnLzOHGUEvTIuCQ=="
-                 length="17183438"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 0.1.5</title>
       <sparkle:version>0.1.5</sparkle:version>
       <sparkle:os>windows</sparkle:os>
@@ -45,6 +31,20 @@
                  sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
                  sparkle:edSignature="t4W/FqcgQUodw0vgXyuxFF7XAngz+g7mwWvygoT4jFXxeaLT/C16kc2ZlwNND4KnMX1x9bz6GcNyqgd9gGuIDw=="
                  length="63262199"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 0.1.7</title>
+      <sparkle:version>0.1.7</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <pubDate>Tue, 25 Aug 2026 21:01:12 +0000</pubDate>
+      <description><![CDATA[ScreenKite 0.1.7]]></description>
+      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.7/ScreenKite-0.1.7.exe"
+                 sparkle:version="0.1.7"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
+                 sparkle:edSignature="bdlU11+o4psys8Qc8FXXzBciv54HobqvJxNRadtu/LAPyh+tAGTVVGjFMlffp2CZvUpgI8O9Hwfe+C/B96RoDA=="
+                 length="63354897"
                  type="application/octet-stream"/>
     </item>
 </channel>
