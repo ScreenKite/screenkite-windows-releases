@@ -6,20 +6,6 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-      <title>Version 0.1.7</title>
-      <sparkle:version>0.1.7</sparkle:version>
-      <sparkle:os>windows</sparkle:os>
-      <pubDate>Tue, 25 Aug 2026 21:01:12 +0000</pubDate>
-      <description><![CDATA[ScreenKite 0.1.7]]></description>
-      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.7/ScreenKite-0.1.7.exe"
-                 sparkle:version="0.1.7"
-                 sparkle:os="windows"
-                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
-                 sparkle:edSignature="bdlU11+o4psys8Qc8FXXzBciv54HobqvJxNRadtu/LAPyh+tAGTVVGjFMlffp2CZvUpgI8O9Hwfe+C/B96RoDA=="
-                 length="63354897"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 0.1.8</title>
       <sparkle:version>0.1.8</sparkle:version>
       <sparkle:os>windows</sparkle:os>
@@ -45,6 +31,20 @@
                  sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
                  sparkle:edSignature="u2wuJv9LjjLccCFea8iRlTx5+4ABj50wv5IQMTx1NBSHN/IgJjGRDPuHrZ82sgX3/lRezQtPSV1RWfdni7MqAA=="
                  length="63372689"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 0.1.10</title>
+      <sparkle:version>0.1.10</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <pubDate>Thu, 27 Aug 2026 03:22:28 +0000</pubDate>
+      <description><![CDATA[OAuth sign-in opens the browser (no Explorer/UNC error). Onboarding: app icon, Close to quit, Send feedback.]]></description>
+      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.10/ScreenKite-0.1.10.exe"
+                 sparkle:version="0.1.10"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
+                 sparkle:edSignature="tAPZkWrLicw4BMG5QqQC444pSlUlMEpjQTBun50wQDeSFg9cypdnhAzEpJIO1UXpYGuxQGUfLhGuBXn4y+qRAQ=="
+                 length="63405130"
                  type="application/octet-stream"/>
     </item>
 </channel>
