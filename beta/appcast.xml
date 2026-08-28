@@ -6,20 +6,6 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-      <title>Version 0.1.13</title>
-      <sparkle:version>0.1.13</sparkle:version>
-      <sparkle:os>windows</sparkle:os>
-      <pubDate>Thu, 27 Aug 2026 18:47:40 +0000</pubDate>
-      <description><![CDATA[Preferences > Advanced can disable optional telemetry. Support reports can include a session id.]]></description>
-      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.13/ScreenKite-0.1.13.exe"
-                 sparkle:version="0.1.13"
-                 sparkle:os="windows"
-                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
-                 sparkle:edSignature="vlu4ElUZjk+CePA7CgZ9bmMznOksUlx2NMrkJS4exespwe0lNqP09axbZXHWPlHgz+CvGfM+OjWJT4Av9VeuAQ=="
-                 length="63444605"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 0.1.14</title>
       <sparkle:version>0.1.14</sparkle:version>
       <sparkle:os>windows</sparkle:os>
@@ -45,6 +31,20 @@
                  sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
                  sparkle:edSignature="O0NRg19PJZDRzpWog197n80MFMelnqFJ8HtW357szqFuNhsLanHJPx2sqKzVrw6SniugwmgfHvPiMctnKvrjBA=="
                  length="65625262"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 0.1.16</title>
+      <sparkle:version>0.1.16</sparkle:version>
+      <sparkle:os>windows</sparkle:os>
+      <pubDate>Fri, 28 Aug 2026 01:46:51 +0000</pubDate>
+      <description><![CDATA[Agent CLI is on the user PATH after install (cli\screenkite.exe). Copy-paste in the CLI panel uses the installed binary when present.]]></description>
+      <enclosure url="https://github.com/ScreenKite/screenkite-windows-releases/releases/download/beta-v0.1.16/ScreenKite-0.1.16.exe"
+                 sparkle:version="0.1.16"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/VERYSILENT /SP- /NORESTART"
+                 sparkle:edSignature="Wh1Lplj+sGfwkUbxO6mPoPypeSJuwdev0xSw3koEnu0YetG2xaUa3Gt+tRknZhftKizCVwSi1kzNqP96DNkpDA=="
+                 length="65630462"
                  type="application/octet-stream"/>
     </item>
 </channel>
