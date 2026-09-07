@@ -83,8 +83,9 @@ ScreenKite includes automatic update checks. When a new version is released:
 
 ## Community & Support
 
+This repository hosts installers only. It is not a product issue tracker.
+
 - **Official Website**: [https://screenkite.com](https://screenkite.com)
-- **Issue Tracker**: [GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
 - **Email Support**: [hi@screenkite.com](mailto:hi@screenkite.com)
 
 ---

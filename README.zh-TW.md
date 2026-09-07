@@ -83,8 +83,9 @@ ScreenKite 內建自動更新檢查機制。當有新版本發布時：
 
 ## 社群與支援
 
+本儲存庫僅提供安裝程式，不是產品問題追蹤區。
+
 - **官方網站**：[https://screenkite.com](https://screenkite.com)
-- **問題回報**：[GitHub Issues](https://github.com/ScreenKite/screenkite-windows-releases/issues)
 - **聯絡我們**：[hi@screenkite.com](mailto:hi@screenkite.com)
 
 ---
